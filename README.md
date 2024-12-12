@@ -5,9 +5,9 @@
   I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
 </h2>
 <div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/divider1.png" alt="divider"/>
 </div> 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/divider2.png" alt="divider"/>
 </div>
 
 <p align="center">
@@ -108,7 +108,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>

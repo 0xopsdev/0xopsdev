@@ -1,107 +1,55 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;It's+Meta0xFlip!;Welcome+to+My+GitHub+Profile!" />
-</div>
-<h2 align="center">
-  I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
-</h2>
-<div align="center">
-  <img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/divider1.png" alt="divider"/>
-</div> 
-<h3 align="center"><img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
-<div align="center" style="witdh:100%"> 
-  <table>
-    <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>DevOps<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Angular-blue" /> 
-        <img src="https://img.shields.io/badge/Flutter-blue" /> 
-        <img src="https://img.shields.io/badge/HTML-blue" /> 
-        <img src="https://img.shields.io/badge/React-blue" /> 
-        <img src="https://img.shields.io/badge/CSS-blue" />
-        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
-        <img src="https://img.shields.io/badge/TypeScript-blue" />
-        <img src="https://img.shields.io/badge/Vue-blue" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
-        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
-        <img src="https://img.shields.io/badge/Next-blue" /> 
-        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
-        <img src="https://img.shields.io/badge/Chart.js-blue" />
-      </td>      
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />        
-        <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/Numpy-blue" /> 
-        <img src="https://img.shields.io/badge/Flask-blue" /> 
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Laravel-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
-        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-        <img src="https://img.shields.io/badge/Docker-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" /> 
-        <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
-    </tr>
-  </table>
+# 👋 Hi, I'm Meta0xFlip
+
+
+
+---
+### 🌟 **About Me**
+I'm Solana & EVM blockchain developer. I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity and dex dApps.
+Have experience with EVM chain based development, especially Ethereum.
+
+---
+
+### 🚀 **Recent Projects**
+
+- **`Blockchain AI agent on EVM and Solana`**
+
+  Blockchain AI Agent is an open-source framework that enables developers to integrate AI-powered agents with Solana and EVM (Ethereum Virtual Machine) blockchains,
+
+- **`DEX token swap & staking on Ethereum`**
+
+  Swap tokens with using uniswap v2 and able to integrate with swap APIs. also implement staking on EVM chain.
+
+- **`Copy trading bot(wallet tracking)`**
+
+  Automatically tracks and mimics the trades of a specific trader's wallet so that make profit.
+
+- **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
+
+  Automates tracking of new pools and executes purchases using multiple transaction services.
+
+- **`Volume Bot in Raydium, Pumpfun and Meteora`**
+
+  Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.
   
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Audit<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Polkadot-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Code4rena-blue" /> 
-       <img src="https://img.shields.io/badge/Sherlock-blue" /> 
-       <img src="https://img.shields.io/badge/Hats-blue" /> 
-       <img src="https://img.shields.io/badge/Cantina-blue" />
-      </td>
-    </tr>
-  </table>
-</div>
+- **`Raydium and Pumpfun Bundler`**
 
-<div align="center">
-  <img src="https://github.com/meta0xflip/meta0xflip/blob/main/divider2.png" alt="divider"/>
-</div>
+  Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling.
+---
 
-<p align="center">
-  <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=ZireaelGit&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
+### 📚 **Recently Read Articles**
 
-<div align="center">
-  <img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/divider1.png" alt="divider"/>
-</div>
+- [**Three AI Agents Built On Blockchain To Transform Crypto, DeFi, Gaming**]([https://www.jito.network/blog/solana-validator-101-getting-started-with-solana-staking/](https://www.forbes.com/sites/digital-assets/2025/02/06/three-ai-agents-built-on-blockchain-to-transform-crypto-defi-gaming/))
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+- [**How to Create a MEV Bot on Ethereum Mainnet: Road to Arbitrage**](https://www.blocknative.com/blog/mev-and-creating-a-basic-arbitrage-bot-on-ethereum-mainnet)
+
+- [**Launching and Trading Memecoins with Pumpfun**](https://medium.com/@8093akash/explaining-pump-fun-launching-and-trading-memecoins-and-building-your-pump-fun-clone-1ecc8081c589)
+
+- [**Jito: Solana Validator _ Getting Started with Solana Staking**](https://www.jito.network/blog/solana-validator-101-getting-started-with-solana-staking/)
+
+---
+
+### 💼 **Let's Connect**
+If you're looking for expertise in the Solana and EVM ecosystem, blockchain development, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities and collaborations!
+
+---

@@ -97,16 +97,6 @@
   <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=ZireaelGit&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
-
-<p align="center">
-  <a href="mailto:nelo.labhart@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/meta0xflip" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/https://img.icons8.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
-  &nbsp;&nbsp;
-</p>
-
 <div align="center">
   <img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/divider1.png" alt="divider"/>
 </div>

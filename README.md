@@ -39,7 +39,7 @@ Have experience with EVM chain based development, especially Ethereum.
 
 ### 📚 **Recently Read Articles**
 
-- [**Three AI Agents Built On Blockchain To Transform Crypto, DeFi, Gaming**]([https://www.forbes.com/sites/digital-assets/2025/02/06/three-ai-agents-built-on-blockchain-to-transform-crypto-defi-gaming/])
+- [**Three AI Agents Built On Blockchain To Transform Crypto, DeFi, Gaming**](https://www.forbes.com/sites/digital-assets/2025/02/06/three-ai-agents-built-on-blockchain-to-transform-crypto-defi-gaming/)
 
 - [**How to Create a MEV Bot on Ethereum Mainnet: Road to Arbitrage**](https://www.blocknative.com/blog/mev-and-creating-a-basic-arbitrage-bot-on-ethereum-mainnet)
 

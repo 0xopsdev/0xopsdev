@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zireael!;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;It's+Meta0xFlip!;Welcome+to+My+GitHub+Profile!" />
 </div>
 <h2 align="center">
   I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ZireaelGit/ZireaelGit/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/meta0xflip/meta0xflip/blob/main/divider2.png" alt="divider"/>
 </div>
 
 <p align="center">
@@ -101,9 +101,9 @@
 <p align="center">
   <a href="mailto:nelo.labhart@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/luckys0l" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/meta0xflip" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me/1316642228424282162" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  <a href="https://x.com/https://img.icons8.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
 </p>
 

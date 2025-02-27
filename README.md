@@ -5,12 +5,13 @@
 
 ---
 ### 🌟 **About Me**
-I'm Solana & EVM blockchain developer. I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity and dex dApps.
-Have experience with EVM chain based development, especially Ethereum.
+I'm Solana & EVM blockchain developer. 
+I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity and dex dApps.
+Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Polygon etc. Any EVM chains.
 
 ---
 
-### 🚀 **Recent Projects**
+### 🚀 **Recent Projects** 🚀
 
 - **`Blockchain AI agent on EVM and Solana`**
 
@@ -37,7 +38,7 @@ Have experience with EVM chain based development, especially Ethereum.
   Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling.
 ---
 
-### 📚 **Recently Read Articles**
+### 📚 **Recently Read Articles** 📚
 
 - [**Three AI Agents Built On Blockchain To Transform Crypto, DeFi, Gaming**](https://www.forbes.com/sites/digital-assets/2025/02/06/three-ai-agents-built-on-blockchain-to-transform-crypto-defi-gaming/)
 
@@ -49,7 +50,7 @@ Have experience with EVM chain based development, especially Ethereum.
 
 ---
 
-### 💼 **Let's Connect**
+### 💼 **Let's Connect** 💼
 If you're looking for expertise in the Solana and EVM ecosystem, blockchain development, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities and collaborations!
 
 ---

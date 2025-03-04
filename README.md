@@ -15,7 +15,7 @@ Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Po
 
 - **`Blockchain AI agent on EVM and Solana`**
 
-  Blockchain AI Agent is an open-source framework that enables developers to integrate AI-powered agents with Solana and EVM (Ethereum Virtual Machine) blockchains
+  Blockchain AI Agent is an open-source framework that enables developers to integrate AI-powered agents with Solana and EVM (Ethereum Virtual Machine) blockchains.
 
 - **`DEX token swap & staking on Ethereum`**
 

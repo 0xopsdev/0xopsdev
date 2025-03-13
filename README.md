@@ -11,7 +11,7 @@ Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Po
 
 ---
 
-### 🚀 **Recent Projects** 🚀
+### 🚀 **Recent Works** 🚀
 
 - **`Blockchain AI agent on EVM and Solana`**
 

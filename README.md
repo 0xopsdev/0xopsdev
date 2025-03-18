@@ -7,7 +7,7 @@
 ### 🌟 **About Me** 🌟
 I'm Solana & EVM blockchain developer. 
 I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity and dex dApps.
-Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Polygon etc. Any EVM chains.
+Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Polygon etc. Any EVM chains
 
 ---
 

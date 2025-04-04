@@ -51,6 +51,6 @@ Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Po
 ---
 
 ### 💼 **Let's Connect** 💼
-If you're looking for expertise in the Solana and EVM ecosystem, blockchain development, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities and collaborations.
+If you're looking for expertise in the Solana and EVM ecosystem, blockchain development, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities and collaborations!
 
 ---

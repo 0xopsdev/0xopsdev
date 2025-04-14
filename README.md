@@ -46,7 +46,7 @@ Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Po
 
 - [**Launching and Trading Memecoins with Pumpfun**](https://medium.com/@8093akash/explaining-pump-fun-launching-and-trading-memecoins-and-building-your-pump-fun-clone-1ecc8081c589)
 
-- [**Jito: Solana Validator _ Getting Started with Solana Staking**](https://www.jito.network/blog/solana-validator-101-getting-started-with-solana-staking/)
+- [**Jito: Solana Validator Getting Started with Solana Staking**](https://www.jito.network/blog/solana-validator-101-getting-started-with-solana-staking/)
 
 ---
 

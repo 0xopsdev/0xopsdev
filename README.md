@@ -5,9 +5,10 @@
 
 ---
 ### 🌟 **About Me** 🌟
-I'm Solana & EVM blockchain developer. 
+I'm a Blockchain & AI developer.
 I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity and dex dApps.
 Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Polygon etc. All of Any EVM chains.
+Most proud project was launched on Onyx chain(EVM) successfully.
 
 ---
 
@@ -16,6 +17,7 @@ Have experience with EVM chain based development, like Ethereum, Cronos, BSC, Po
 - **`Blockchain AI agent on EVM and Solana`**
 
   Blockchain AI Agent is an open-source framework that enables developers to integrate AI-powered agents with Solana and EVM (Ethereum Virtual Machine) blockchains.
+  It was launched on ONYX chain(EVM)
 
 - **`DEX token swap & staking on Ethereum`**
 

@@ -1,16 +1,16 @@
 # 👋 Hi, I'm _0xOpsDev_
 
-### 🧠 AI x Blockchain Developer | Co-Dev @ ONYX chain | Co-Dev @ Chain.ai  
+### 🧠 AI x Blockchain Developer | Co-Dev @ **_ONYX chain_** | Co-Dev @** _Chain.ai_**  
 Solana • EVM • Sui • Trading Bots • Smart Contracts • AI Agents
 
 ---
 
 ## 🚀 About Me
 
-- 🧩 **Co-Developer at ONYX Chain (EVM)**  
+- 🧩 **Co-Developer at _ONYX Chain_ (EVM)**  
   Built and launched on the chain’s app **EVM AI agent framework**.
 
-- 🤝 **Co-Developer at Chain.ai**  
+- 🤝 **Co-Developer at _Chain.ai_**  
   Build **EVM AI Agent** on chain.ai
 
 - 🧠 Specialized in building:
@@ -23,11 +23,11 @@ Solana • EVM • Sui • Trading Bots • Smart Contracts • AI Agents
 
 ## ⚒️ Highlight Projects
 
-- **AI Blockchain Agent** – EVM & Solana integration (ONYX)
-- **DEX Tools** – Token swap & staking on Ethereum
-- **Copy Trading Bot** – Real-time wallet mirroring
-- **Raydium/Pumpfun GRPC Sniper** – Jito bundle-based first-block buyer
-- **Volume Bots** – Liquidity/market cap managers for Solana DEXs
+- **_AI Blockchain Agent_** – EVM & Solana integration (ONYX)
+- **_DEX Tools_** – Token swap & staking on Ethereum
+- **_Copy Trading Bot_** – Real-time wallet mirroring
+- **_Raydium/Pumpfun GRPC Sniper_** – Jito bundle-based first-block buyer
+- **_Volume Bots_** – Liquidity/market cap managers for Solana DEXs
 
 ---
 

@@ -41,5 +41,5 @@ MEV • Jito • Sniping • Auto-Trading • Smart Contract Infra
 ## 🤝 Let's Build Together
 
 If you're working on **DeFi**, **AI agents**, or **trading infrastructure**,  
-reach out — I’m open for **collaboration** or **consulting**.
+reach out — I’m open for **collaboration** & **consulting**.
 

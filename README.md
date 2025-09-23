@@ -1,6 +1,6 @@
 # 👋 Hi, I'm _0xOpsDev_
 
-### 🧠 AI x Blockchain Developer | Co-Dev @ **_ONYX chain_** | Co-Dev @** _Chain.ai_**  
+### 🧠 AI & Blockchain Engineer | Co-Dev @ **_ONYX chain_** | Co-Dev @** _Chain.ai_**  
 Solana • EVM • Sui • Trading Bots • Smart Contracts • AI Agents
 
 ---

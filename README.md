@@ -1,7 +1,7 @@
 # 👋 Hi, I'm _0xOpsDev_
 
 ### 🧠 AI & Blockchain Engineer | Co-Dev @ **_ONYX chain_** | Co-Dev @** _Chain.ai_**  
-Solana • EVM • Sui • Trading Bots • Smart Contracts • AI Agents
+Solana, Ethereum, Cronos, Zetachain, Avalanche, BSC, Base, Sui, Abstract, Sonic
 
 ---
 
@@ -21,20 +21,30 @@ Solana • EVM • Sui • Trading Bots • Smart Contracts • AI Agents
 
 ---
 
-## ⚒️ Highlight Projects
-
-- **_AI Blockchain Agent_** – EVM & Solana integration (ONYX)
-- **_DEX Tools_** – Token swap & staking on Ethereum
-- **_Copy Trading Bot_** – Real-time wallet mirroring
-- **_Raydium/Pumpfun GRPC Sniper_** – Jito bundle-based first-block buyer
-- **_Volume Bots_** – Liquidity/market cap managers for Solana DEXs
-
----
-
-## 🧰 Tech Focus
-
-**AI + DeFi** | **EVM (Solidity)** | **Solana (Anchor, GRPC)** | **Sui (Move)**  
-MEV • Jito • Sniping • Auto-Trading • Smart Contract Infra
+## ⚒️ Recent works
+- Blockchain AI Agent(Solana, EVM chains)
+- Casino game website(Solana, EVM)
+- Pumpfun forking project(Smart contract, Backend, Frontend)
+- ICO smart contract(veting and referral system)
+- Smart contract to interact with Gateway contract of Zetachain
+- CCTP/CCIP bridge
+- Presale contract
+- Solana trading bot (Tracking the token price and automatically make the buy/sell)
+- Copy trading bot
+- Solana volume bot(Raydium, Orca, Moonshot, Meteora)
+- Pumpfun Bundler/Sniper
+- Raydium AMM Bundler/Sniper
+- Raydium CPMM Bundler/Sniper
+- Raydium CLMM Bundler/Sniper
+- Twitter Posing/Replying/Like bot using AI
+- Token2022 Pumpfun contract
+- Token2022 Tax Claimer(Manually&Automatical)
+- Dex on EVM chains
+- Crash Game on EVM Chains
+- Pancakeswap Sniper
+- Pancakeswap Volume Bot (Binance Smart chain)
+- ShadowExchange Volume Bot (Sonic chain)
+- Uniswap Volume Bot
 
 ---
 

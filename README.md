@@ -1,4 +1,4 @@
-# 👋 Hi, I'm _0xOpsDev_
+# 👋 Hi, Its _0xOpsDev_
 
 ### 🧠 AI & Blockchain Engineer | Co-Dev @ **_ONYX chain_** | Co-Dev @** _Chain.ai_**  
 Solana, Ethereum, Cronos, Zetachain, Avalanche, BSC, Base, Sui, Abstract, Sonic
